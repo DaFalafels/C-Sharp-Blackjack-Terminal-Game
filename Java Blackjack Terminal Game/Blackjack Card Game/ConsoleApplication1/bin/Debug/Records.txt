@@ -1,0 +1,28 @@
+
+    *  So, You started with 6 stars
+
+    *  You bet 2 stars
+
+    *  The dealer draws the cards, and gets an a(n) 3 and a faced-down card.
+     = Total value: 3.
+
+    *  You get a(n) 9 and a(n) 3.
+     = Total value: 12.
+
+     = You double down, and you get a(n) 5.
+     = Total value: 17.
+
+    *  The dealer already has a(n) 3 and a faced-down card with value 4.
+     = Total value: 7.
+     = The dealer gets a(n) 8.
+     = Total value: 15.
+
+    *  The dealer draws again!
+     = The dealer gets an Ace and, chooses a value of 1
+     = Total value: 16.
+
+    *  The dealer draws again!
+     = The dealer gets a(n) 6.
+     = Total value: 22.
+
+That's how you won the game Hunter Gibson! :D
